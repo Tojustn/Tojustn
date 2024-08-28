@@ -1,7 +1,9 @@
 ## Hi there 👋
  I'm currently a student at Harper College hoping to major in Computer Science. I really enjoy coding and have been becoming on deeply involved with programming currently working on projects over my freetime (weekends)
 
- ### Currently working on: Web Scraper + Recommendation Software
+ ### Currently working on: Implementing pygames to Sudoku
+
+ ### Goal project: Web scraper and reccomendation software(DJango and react)
  
 <!--
 **Tojustn/Tojustn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
