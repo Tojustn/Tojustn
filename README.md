@@ -1,7 +1,7 @@
 ## Hi there 👋
  I'm currently a student at Harper College hoping to major in Computer Science. I really enjoy coding and have been becoming on deeply involved with programming currently working on projects over my freetime (weekends)
 
- ### Currently working on: Learning Django 
+ ### Currently working on: Learning ML 
 
  ### Goal project: Web scraper and reccomendation software(DJango and react)
  
