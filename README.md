@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm currently a student at Harper College hoping to major in Computer Science. I really enjoy coding and have been becoming on deeply involved with programming currently working on projects over my freetime (weekends)
+ I'm currently a student at Harper College hoping to major in Computer Science. I really enjoy coding and have been becoming on deeply involved with programming currently working on projects over my freetime 
 
  ### Currently working on: C++, terraria clone kinda
 
