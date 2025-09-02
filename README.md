@@ -1,9 +1,10 @@
 ## Hi there 👋
  I'm currently a student at Harper College hoping to major in Computer Science. I really enjoy coding and have been becoming on deeply involved with programming currently working on projects over my freetime 
 
- ### Currently working on: 
+ ### Currently working on: ClassPlan
+ https://classplanai.vercel.app/
 
- ### Just Finished: AutoTab AI Powered Tab Extractor
+ ### Just Finished: 
  
  
 <!--
