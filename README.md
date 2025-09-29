@@ -1,11 +1,11 @@
 ## Hi there 👋
  I'm currently a student at Harper College hoping to major in Computer Science. I really enjoy coding and have been becoming on deeply involved with programming currently working on projects over my freetime 
 
- ### Currently working on: ClassPlan
- https://classplanai.vercel.app/
+ ### Currently working on: 
 
- ### Just Finished: 
- 
+
+ ### Just Finished: ClassPlan
+  https://classplanai.vercel.app/
  
 <!--
 **Tojustn/Tojustn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
