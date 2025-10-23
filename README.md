@@ -4,8 +4,7 @@
  ### Currently working on: 
 
 
- ### Just Finished: ClassPlan
-  https://classplanai.vercel.app/
+ ### Just Finished: 
  
 <!--
 **Tojustn/Tojustn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
