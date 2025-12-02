@@ -1,7 +1,9 @@
 ## Hi there 👋
  I'm currently a student at Harper College hoping to major in Computer Science. I really enjoy coding and have been becoming on deeply involved with programming currently working on projects over my freetime 
 
- ### Interning at Soap Payments 
+ ### Currenlty Interning at Soap Payments 
+
+ ## Personal Website: justintoportfolio.vercel.app (Updated 09/17)
  
 <!--
 **Tojustn/Tojustn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
