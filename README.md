@@ -1,24 +1,12 @@
-# Justin To - Software Engineer 👋
+# Justin To
 
-**Computer Science Student**
+CS @ UIUC (Class of 2028) | Incoming SWE Intern @ Avant
 
-Currently studying at Harper College with a 4.0 GPA, transferring to UIUC Fall 2026 for Computer Science.
+Focused on high-performance systems and financial infrastructure.
+Currently building a C++20 limit order book with nanosecond-resolution benchmarks.
+Previously shipped financial infrastructure at Soap Payments.
 
-[🌐 Portfolio Website](https://justintoportfolio.vercel.app)
+**Languages:** C++, Python, TypeScript, Ruby  
+**Interests:** HFT infrastructure, low-latency systems, fintech
 
----
-
-<!--
-**Tojustn/Tojustn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Portfolio](https://justintoportfolio.vercel.app) · 📫 justin.to.contact@gmail.com
