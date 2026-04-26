@@ -7,6 +7,6 @@ Currently building a C++20 limit order book with nanosecond-resolution benchmark
 Previously shipped financial infrastructure at Soap Payments.
 
 **Languages:** C++, Python, TypeScript, Ruby  
-**Interests:** HFT infrastructure, low-latency systems, fintech
+**Interests:** low-latency systems, fintech
 
 🌐 [Portfolio](https://justintoportfolio.vercel.app) · 📫 justin.to.contact@gmail.com
